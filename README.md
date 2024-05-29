@@ -1,3 +1,3 @@
-# sample01
+# Skill
 
-http://sample01.jobability.co.kr
+http://skill.jobability.co.kr
