@@ -1,3 +1,3 @@
 # Skill
 
-http://skill.jobability.co.kr
+https://aebonlee.github.io/skill/
